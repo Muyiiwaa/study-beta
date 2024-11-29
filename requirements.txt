@@ -1,0 +1,7 @@
+streamlit       # For the main application UI
+PyPDF2         # For handling PDF extraction
+youtube-transcript-api  # For extracting YouTube video transcripts
+openai         # For GPT-powered question generation
+pytest            # For testing the application
+pytest-mock        # For mocking dependencies during tests
+python-dotenv
